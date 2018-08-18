@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Martin Eden",
-  "type": "text"
+  "type": "text",
+  "book_id": 629
 }
